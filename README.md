@@ -1,6 +1,6 @@
 # Project - Social Media Influence on Stock Markets
 UCB Bootcamp Group Project 1
-Sub Title: Trump tweets vs Stock markets.
+
 
 Team Members: Rashim, Karthik, Isaac and Ervin
 
