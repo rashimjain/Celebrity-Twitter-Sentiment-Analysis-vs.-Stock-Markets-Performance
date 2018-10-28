@@ -3,7 +3,7 @@ UCB Bootcamp Group Project 1
 
 Team Members: Rashim, Karthik, Isaac and Ervin
 
-![KivaML](Images/Picture1.png)
+![PDF](Project Presentation 20180703.pdf)
 
 
 Project Description:
