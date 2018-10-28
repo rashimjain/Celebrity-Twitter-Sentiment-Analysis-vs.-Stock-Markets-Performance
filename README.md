@@ -1,8 +1,10 @@
 # Project - Social Media Influence on Stock Markets
 UCB Bootcamp Group Project 1
 
-
 Team Members: Rashim, Karthik, Isaac and Ervin
+
+![KivaML](Images/Picture1.png)
+
 
 Project Description:
 Analysis of the impact of Trump’s tweets on financial markets. 
