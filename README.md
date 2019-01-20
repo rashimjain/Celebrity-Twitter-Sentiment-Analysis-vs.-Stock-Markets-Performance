@@ -20,3 +20,15 @@ Data sets used:
 2.	Yahoo Finance CSVs
 3.	Alpha Vantage API
 
+![Image1](Images/Correlation_Compound_Sentiment_Alternate%20Method_Index.png)
+![Image1](Images/Images/Correlation_Compound_Sentiment_Alternate%20Method_Sector1.png)
+![Image1](Images/Correlation_Compound_Sentiment_Alternate%20Method_Sector2.png)
+![Image1](Images/Correlation_Compound_Sentiment_Index.png)
+![Image1](Images/Correlation_Compound_Sentiment_Sector_1.png)
+![Image1](Images/Correlation_Compound_Sentiment_Sector_2.png)
+![Image1](Images/Correlation_Negative_Sentiment_Index.png)
+![Image1](Images/Correlation_Negative_Sentiment_Sector_1.png)
+![Image1](Images/Correlation_Retweets_Index.png)
+![Image1](Images/Percent%20change%20in%20Stock%20against%20Negative%20score-subplot.png)
+![Image1](Images/Percent%20change%20in%20Stock%20against%20Negative%20score.png)
+![Image1](Images/sentimentspie.png)
